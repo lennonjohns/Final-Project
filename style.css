@@ -6,11 +6,11 @@ h2 {
     color: lightblue;
 }
 h3 {
-    color: black;
+    color: #000000;
 }
 body {
     background: grey;
 }
 header, footer { 
-    background: black
+    background: #000000;
 }
