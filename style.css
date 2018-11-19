@@ -1,0 +1,16 @@
+
+h1{
+    color: purple;
+}
+h2 {
+    color: lightblue;
+}
+h3 {
+    color: yellow;
+}
+body {
+    background: grey;
+}
+header, footer { 
+    background: gold
+}
